@@ -1,0 +1,18 @@
+{
+    "name": "lenovo/antra_pamoka",
+    "description": "PHP Intro",
+    "type": "project",
+    "require": {},
+    "authors": [
+        {
+            "name": "Mantsvas",
+            "email": "Mantsvas@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Nfq\\Akademija\\": "src"
+        }
+    }
+}
